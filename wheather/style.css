@@ -1,0 +1,13 @@
+body{
+    background: #94deed;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+}
+
+.container{
+    max-width: 400px;
+}
+
+.card{
+    background-color: rgb(169, 197, 205);
+}
